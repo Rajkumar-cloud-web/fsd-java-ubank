@@ -1,7 +1,6 @@
 package com.upgrad.ubank.services;
 
-import com.upgrad.ubank.Account;
-import com.upgrad.ubank.Transaction;
+import com.upgrad.ubank.dtos.Account;
 
 public interface AccountService {
     boolean login (Account account);

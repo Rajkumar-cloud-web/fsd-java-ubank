@@ -1,4 +1,4 @@
-package com.upgrad.ubank;
+package com.upgrad.ubank.dtos;
 
 public class Transaction {
     private int accountNo;

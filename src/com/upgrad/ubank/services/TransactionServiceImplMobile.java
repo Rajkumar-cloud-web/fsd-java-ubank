@@ -1,6 +1,6 @@
 package com.upgrad.ubank.services;
 
-import com.upgrad.ubank.Transaction;
+import com.upgrad.ubank.dtos.Transaction;
 
 public class TransactionServiceImplMobile implements TransactionService {
     @Override
